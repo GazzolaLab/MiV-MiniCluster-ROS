@@ -1,0 +1,12 @@
+[console_scripts]
+MEA = miv_cluster.MEA_node:main
+chamber_cali = miv_cluster.chamber_cali:main
+client = miv_cluster.gantry_client_node:main
+listener = miv_cluster.gripper_task_node:main
+listener_encoder = miv_cluster.encoder_task_node:main
+run_now = miv_cluster.run_node:main
+scheduler = miv_cluster.scheduler_node:main
+server_camera = miv_cluster.camera_server_node:main
+server_gantry = miv_cluster.gantry_server_node:main
+talker = miv_cluster.gripper_command_node:main
+
