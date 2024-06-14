@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from miv_cluster_interfaces/srv/MeaJob.srv
+// generated code does not contain a copyright notice
+
+
+module miv_cluster_interfaces {
+  module srv {
+    struct MeaJob_Request {
+      sequence<int32> mea_list;
+
+      sequence<float> recordtime_list;
+    };
+    struct MeaJob_Response {
+      string status;
+    };
+  };
+};
