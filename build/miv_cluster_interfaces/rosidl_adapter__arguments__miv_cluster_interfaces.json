@@ -1,0 +1,9 @@
+{
+  "package_name": "miv_cluster_interfaces",
+  "non_idl_tuples": [
+    "/home/gazzolapi/ros2_ws/src/miv_cluster_interfaces:srv/Gantry.srv",
+    "/home/gazzolapi/ros2_ws/src/miv_cluster_interfaces:srv/Camera.srv",
+    "/home/gazzolapi/ros2_ws/src/miv_cluster_interfaces:srv/MeaJob.srv",
+    "/home/gazzolapi/ros2_ws/src/miv_cluster_interfaces:msg/Encoder.msg"
+  ]
+}

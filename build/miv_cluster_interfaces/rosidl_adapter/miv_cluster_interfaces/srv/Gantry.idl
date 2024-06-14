@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from miv_cluster_interfaces/srv/Gantry.srv
+// generated code does not contain a copyright notice
+
+
+module miv_cluster_interfaces {
+  module srv {
+    struct Gantry_Request {
+      float x;
+
+      float y;
+
+      float z;
+
+      boolean sensor_flag;
+
+      boolean measurement_flag;
+    };
+    struct Gantry_Response {
+      string status;
+
+      float force_measurement;
+    };
+  };
+};

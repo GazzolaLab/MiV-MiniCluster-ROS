@@ -1,0 +1,29 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from miv_cluster_interfaces/srv/Camera.srv
+// generated code does not contain a copyright notice
+
+
+module miv_cluster_interfaces {
+  module srv {
+    struct Camera_Request {
+      float x1;
+
+      float y1;
+
+      float z1;
+
+      boolean calibration_flag;
+
+      boolean qrscan_flag;
+
+      int32 iteration;
+    };
+    struct Camera_Response {
+      float x2;
+
+      float y2;
+
+      float z2;
+    };
+  };
+};

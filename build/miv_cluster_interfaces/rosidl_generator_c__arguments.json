@@ -1,0 +1,30 @@
+{
+  "package_name": "miv_cluster_interfaces",
+  "output_dir": "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_generator_c/miv_cluster_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/Gantry.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/Camera.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/MeaJob.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:msg/Encoder.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../local/lib/python3.10/dist-packages/rosidl_generator_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/Gantry.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/Camera.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/MeaJob.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/msg/Encoder.idl"
+  ]
+}
