@@ -1,0 +1,25 @@
+{
+  "package_name": "miv_cluster_interfaces",
+  "output_dir": "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_typesupport_introspection_cpp/miv_cluster_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/Gantry.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/Camera.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:srv/MeaJob.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces:msg/Encoder.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/Gantry.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/Camera.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/srv/MeaJob.idl",
+    "/home/gazzolapi/ros2_ws/build/miv_cluster_interfaces/rosidl_adapter/miv_cluster_interfaces/msg/Encoder.idl"
+  ]
+}
