@@ -1,0 +1,10 @@
+float32 x1
+float32 y1
+float32 z1
+bool calibration_flag
+bool qrscan_flag
+int32 iteration
+---
+float32 x2
+float32 y2
+float32 z2

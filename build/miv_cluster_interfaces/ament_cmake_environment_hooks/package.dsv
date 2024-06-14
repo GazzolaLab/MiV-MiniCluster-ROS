@@ -1,0 +1,4 @@
+source;share/miv_cluster_interfaces/local_setup.bash
+source;share/miv_cluster_interfaces/local_setup.dsv
+source;share/miv_cluster_interfaces/local_setup.sh
+source;share/miv_cluster_interfaces/local_setup.zsh
