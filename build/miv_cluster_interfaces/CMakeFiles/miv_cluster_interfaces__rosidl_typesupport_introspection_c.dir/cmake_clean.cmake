@@ -1,0 +1,25 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/msg/detail/encoder__type_support.c.o"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/msg/detail/encoder__type_support.c.o.d"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/camera__type_support.c.o"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/camera__type_support.c.o.d"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/gantry__type_support.c.o"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/gantry__type_support.c.o.d"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/mea_job__type_support.c.o"
+  "CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/mea_job__type_support.c.o.d"
+  "libmiv_cluster_interfaces__rosidl_typesupport_introspection_c.pdb"
+  "libmiv_cluster_interfaces__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/msg/detail/encoder__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/msg/detail/encoder__type_support.c"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/camera__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/camera__type_support.c"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/gantry__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/gantry__type_support.c"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/mea_job__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/miv_cluster_interfaces/srv/detail/mea_job__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/miv_cluster_interfaces__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
